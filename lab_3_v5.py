@@ -1,6 +1,6 @@
 from  math import sqrt
 x1 = int(input("введите х начала: "))
-x2 = int(input("введите х конца: "))
+x2 = int(input("ИЗМЕНЕНИЕ х конца: "))
 h = int(input("ведите шаг: "))
 
 for x in range(x1, x2+1, h):
